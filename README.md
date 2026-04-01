@@ -71,7 +71,7 @@ The dashboard helps in understanding sales performance, customer behavior, order
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+![E-commerce Sales Dashboard](https://github.com/payaldadhwal/E-commerce-Sales-Analysis/raw/main/Sales%20Dashboard%20Screenshot.png)
 
 ## 🚀 Key Learnings
 
